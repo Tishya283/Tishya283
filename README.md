@@ -1,7 +1,7 @@
-[![MasterHead]([https://i0.wp.com/tabsons.com/wp-content/uploads/2024/05/AI-ML-Banner.gif?fit=480%2C270&ssl=1​](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmy9YftuWehCZzWaFvUmR5Re5e-8I2pCk1g&s))](https://rishavchanda.io​)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFjKlhY8Rvv0MlwU9GLAFX3kgk9apxX9jEkw&s​)](https://rishavchanda.io​)
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Tishya Patel</h1>
 <h3 align="center">a Aspiring AI/ML Engineer and Web Developer with expertise in Python, machine learning, and Jupyter Notebook. Proficient in Django for backend development and Odoo (v18) for ERP customization. Skilled in building responsive web applications using HTML, CSS, JavaScript, and Bootstrap. Passionate about integrating AI/ML solutions into user-friendly platforms and solving real-world problems through technology.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*IO0G2ygwIml_NGAv26Na4w.gif​">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*ooRqKwk2eeDjqk31nwDGaw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tishya283&label=Profile%20views&color=0e75b6&style=flat" alt="tishya283" /> </p>
 

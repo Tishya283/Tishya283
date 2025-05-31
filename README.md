@@ -1,19 +1,23 @@
-Hello! I'm Tishya Patel, a Aspiring AI/ML Engineer and Web Developer with expertise in Python, machine learning, and Jupyter Notebook. Proficient in
-Django for backend development and Odoo (v18) for ERP customization. Skilled in building responsive web applications
-using HTML, CSS, JavaScript, and Bootstrap. Passionate about integrating AI/ML solutions into user-friendly platforms and
-solving real-world problems through technology.
+[![MasterHead]([https://i0.wp.com/tabsons.com/wp-content/uploads/2024/05/AI-ML-Banner.gif?fit=480%2C270&ssl=1​](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmy9YftuWehCZzWaFvUmR5Re5e-8I2pCk1g&s))](https://rishavchanda.io​)
+<h1 align="center">Hi 🙋🏻‍♂️, I'm Tishya Patel</h1>
+<h3 align="center">a Aspiring AI/ML Engineer and Web Developer with expertise in Python, machine learning, and Jupyter Notebook. Proficient in Django for backend development and Odoo (v18) for ERP customization. Skilled in building responsive web applications using HTML, CSS, JavaScript, and Bootstrap. Passionate about integrating AI/ML solutions into user-friendly platforms and solving real-world problems through technology.</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*IO0G2ygwIml_NGAv26Na4w.gif​">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tishya283&label=Profile%20views&color=0e75b6&style=flat" alt="tishya283" /> </p>
 
-Languages: Python , AI-ML, Object-Oriented Programming, Web Development, Bootstrap, Figma, Microsoft excel, odoo
+- 🔭 I’m currently working on [Soil Quality Prediction](https://github.com/Tishya283/Soil-Prediction-System)
 
+- 📫 Reach me at **283tishyapatel@gmail.com**
 
-Email:283tishyapatel@gmail.com
-LinkedIn:[ Your LinkedIn Profile](https://www.linkedin.com/in/tishya-patel-4b81b8273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tishya-patel-4b81b8273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tishya-patel-4b81b8273" height="30" width="40" /></a>
+<a href="https://kaggle.com/tishyapatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tishyapatel" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tishya283&show_icons=true&locale=en&layout=compact" alt="tishya283" /></p>
 
-
-<!---
-Tishya283/Tishya283 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tishya283&show_icons=true&locale=en" alt="tishya283" /></p>

@@ -1,7 +1,7 @@
 [![MasterHead](https://www.adinfosystem.com/images/ai-ml-developers.jpg)](https://rishavchanda.io​)
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Tishya Patel</h1>
 <h3 align="center">a Aspiring AI/ML Engineer and Web Developer with expertise in Python, machine learning, and Jupyter Notebook. Proficient in Django for backend development and Odoo (v18) for ERP customization. Skilled in building responsive web applications using HTML, CSS, JavaScript, and Bootstrap. Passionate about integrating AI/ML solutions into user-friendly platforms and solving real-world problems through technology.</h3>
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1280/1*ooRqKwk2eeDjqk31nwDGaw.gif">
+<img align="right" alt="Coding" width="250" src="https://miro.medium.com/v2/resize:fit:1280/1*ooRqKwk2eeDjqk31nwDGaw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tishya283&label=Profile%20views&color=0e75b6&style=flat" alt="tishya283" /> </p>
 
